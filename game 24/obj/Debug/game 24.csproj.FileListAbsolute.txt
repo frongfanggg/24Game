@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\game 24\game 24\bin\Debug\game 24.exe.config
+C:\Users\user\source\repos\game 24\game 24\bin\Debug\game 24.exe
+C:\Users\user\source\repos\game 24\game 24\bin\Debug\game 24.pdb
+C:\Users\user\source\repos\game 24\game 24\obj\Debug\game 24.csprojAssemblyReference.cache
+C:\Users\user\source\repos\game 24\game 24\obj\Debug\game_24.Form1.resources
+C:\Users\user\source\repos\game 24\game 24\obj\Debug\game_24.Properties.Resources.resources
+C:\Users\user\source\repos\game 24\game 24\obj\Debug\game 24.csproj.GenerateResource.cache
+C:\Users\user\source\repos\game 24\game 24\obj\Debug\game 24.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\game 24\game 24\obj\Debug\game 24.exe
+C:\Users\user\source\repos\game 24\game 24\obj\Debug\game 24.pdb
